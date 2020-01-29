@@ -46,3 +46,5 @@ Git history to emulate different valid states of issues.
 |
 master branch
 ```
+
+change for GB-979
